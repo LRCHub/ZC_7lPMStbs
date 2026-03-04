@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "MOONRAKER",
+  "base_artist": "WurtS",
+  "createdAt": "2026-03-04T07:12:24.437571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Shirley Bassey",
+      "has_synced": true,
+      "path": "select/01_Moonraker_Shirley_Bassey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonraker (From \"James Bond: Moon Raker\")",
+      "artist": "Movie Sounds Unlimited",
+      "has_synced": true,
+      "path": "select/02_Moonraker_(From__James_Bond__Moon_Raker_)_Movie_Sounds_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moonraker (From \"James Bond - Moonraker\")",
+      "artist": "Movie Sounds Unlimited",
+      "has_synced": true,
+      "path": "select/03_Moonraker_(From__James_Bond_-_Moonraker_)_Movie_Sounds_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Shirley Bassey",
+      "has_synced": true,
+      "path": "select/04_Moonraker_Shirley_Bassey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Ben Howard",
+      "has_synced": false,
+      "path": "select/05_Moonraker_Ben_Howard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Scent of Spring (Moonraker)",
+      "artist": "Les Discrets",
+      "has_synced": true,
+      "path": "select/06_The_Scent_of_Spring_(Moonraker)_Les_Discrets.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Shirley Bassey",
+      "has_synced": true,
+      "path": "select/07_Moonraker_Shirley_Bassey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Shirley Bassey",
+      "has_synced": true,
+      "path": "select/08_Moonraker_Shirley_Bassey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonraker (From \"Moonraker\")",
+      "artist": "007 Collective",
+      "has_synced": true,
+      "path": "select/09_Moonraker_(From__Moonraker_)_007_Collective.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "David Arnold feat. Shara Nelson",
+      "has_synced": false,
+      "path": "select/10_Moonraker_David_Arnold_feat._Shara_Nelson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonraker (End Title)",
+      "artist": "Shirley Bassey",
+      "has_synced": true,
+      "path": "select/11_Moonraker_(End_Title)_Shirley_Bassey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonraker",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/12_Moonraker_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOONRAKER",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_MOONRAKER_WurtS.txt"
+    }
+  ]
+}
